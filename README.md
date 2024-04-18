@@ -11,7 +11,7 @@ This is the public repository for our code which consisted of the implementation
 
 **Moving Average**
 <p align="center">
-<img width="400" alt="img2" src="https://github.com/vedantpalit/time-series-analysis-rtsm/blob/main/images/img2.png" >
+<img width="400" alt="img3" src="https://github.com/vedantpalit/time-series-analysis-rtsm/blob/main/images/img3.png" >
 </p>
 <p align="center">
 <i>MA Forecasting</i>
