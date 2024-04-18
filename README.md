@@ -3,9 +3,9 @@ This is the public repository for our code which consisted of the implementation
 
 **ARIMA**
 <p align="center">
-<img width="400" alt="img1" src="" >
+<img width="400" alt="img1" src="https://github.com/vedantpalit/time-series-analysis-rtsm/blob/main/images/img1.png" >
 </p>
 <p align="center">
-<i>Blip for VQA Architecture</i>
+<i>ARIMA Forecasting</i>
 </p>
 
