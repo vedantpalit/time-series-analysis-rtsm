@@ -16,3 +16,11 @@ This is the public repository for our code which consisted of the implementation
 <p align="center">
 <i>MA Forecasting</i>
 </p>
+
+**Exponentially Weighted Moving Average**
+<p align="center">
+<img width="400" alt="img4" src="https://github.com/vedantpalit/time-series-analysis-rtsm/blob/main/images/img4.png" >
+</p>
+<p align="center">
+<i>EWMA Forecasting</i>
+</p>
