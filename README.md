@@ -33,3 +33,11 @@ This is the public repository for our code which consisted of the implementation
 <i>Holts Forecasting</i>
 </p>
 
+**Seasonal ARIMA**
+<p align="center">
+<img width="400" alt="img2" src="https://github.com/vedantpalit/time-series-analysis-rtsm/blob/main/images/img2.png" >
+</p>
+<p align="center">
+<i>SARIMA Forecasting</i>
+</p>
+
