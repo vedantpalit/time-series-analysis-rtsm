@@ -24,3 +24,12 @@ This is the public repository for our code which consisted of the implementation
 <p align="center">
 <i>EWMA Forecasting</i>
 </p>
+
+**Holts Method**
+<p align="center">
+<img width="400" alt="img3" src="https://github.com/vedantpalit/time-series-analysis-rtsm/blob/main/images/img3.png" >
+</p>
+<p align="center">
+<i>Holts Forecasting</i>
+</p>
+
